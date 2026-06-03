@@ -1,0 +1,16 @@
+{
+  "name": "NexcoinWallet",
+  "version": "1.0.0",
+  "scripts": {
+    "android": "react-native run-android",
+    "start": "react-native start"
+  },
+  "dependencies": {
+    "@react-navigation/bottom-tabs": "^6.5.11",
+    "@react-navigation/native": "^6.1.9",
+    "react": "18.2.0",
+    "react-native": "0.73.2",
+    "react-native-vector-icons": "^10.0.3",
+    "axios": "^1.6.7"
+  }
+}
